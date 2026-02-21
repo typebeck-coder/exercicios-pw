@@ -15,17 +15,18 @@ O desenvolvimento web pode ser dividido em três camadas principais:
 <br>
 <br>
 
-<b>Frontend</b> – Responsável pela interface visual. Tecnologias principais:
+<b>1. Frontend</b> – Responsável pela interface visual. Tecnologias principais:
 
 <ul><li>HTML (estrutura)</li>
 <li>CSS (estilo)</li>
 <li>JavaScript (interatividade)</li></ul>
-<b>Backend</b> – Responsável pelo funcionamento interno do site. Principais tecnologias:
 
+<b>2. Backend</b> – Responsável pelo funcionamento interno do site. Principais tecnologias:
 <ul><li>Node.js</li>
 <li>Python (Django, Flask)</li>
 <li>PHP</li></ul>
-<b>Banco de Dados</b> – Onde as informações são armazenadas. Alguns exemplos:
+
+<b>3. Banco de Dados</b> – Onde as informações são armazenadas. Alguns exemplos:
 
 <ul><li>MySQL</li>
 <li>PostgreSQL</li>
